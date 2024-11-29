@@ -21,7 +21,12 @@ app.get(
                 {
                     id: 2,
                     title: 'Two'
+                },
+                {
+                    id:3,
+                    title:'Three'
                 }
+
             ]
         );
     }
